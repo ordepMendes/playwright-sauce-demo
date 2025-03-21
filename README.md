@@ -10,6 +10,11 @@ O objetivo é criar uma suite de testes automatizados para a aplicação web [Sa
 - **Node.js** - Ambiente de execução para JavaScript.
 - **javascript** - Linguagem de programação usada como base
 
+### Limitações e Áreas de Melhoria
+
+- **Page Objects**: Ainda estou aprendendo sobre o padrão **Page Object** e não o implementei completamente no projeto. Futuramente, pretendo adicionar!
+- **Application Sections**: Também estou em processo de aprendizado sobre a implementação de **Application Sections** e, por enquanto, não foi adotado neste projeto.
+
 ### Configuração e Execução do projeto
 
 ### 1️⃣ Clonar o Repositório
